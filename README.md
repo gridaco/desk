@@ -9,6 +9,14 @@ The initial goal of "desk" is to provide user a browser based interface to help 
 
 ## Lifecycle
 
+- trigger
+- boot
+- setup
+- tunnel
+- usage meter
+- save
+- kill
+
 ## Platforms
 - Linux
 - NodeJS v12.x
