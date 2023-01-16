@@ -18,7 +18,8 @@ The initial goal of "desk" is to provide user a browser based interface to help 
 - kill
 
 
-## Terminal
+## Kernel & Terminal
+- image: Debian GNU/Linux 11 (bullseye)
 - socket ssh connection
 - (kernel) user permission (for prevent hacking / breaking the vm)
 
