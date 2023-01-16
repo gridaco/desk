@@ -17,6 +17,12 @@ The initial goal of "desk" is to provide user a browser based interface to help 
 - save
 - kill
 
+
+## Terminal
+- socket ssh connection
+- (kernel) user permission (for prevent hacking / breaking the vm)
+
+
 ## Platforms
 - Linux
 - NodeJS v12.x
