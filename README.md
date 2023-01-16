@@ -36,11 +36,16 @@ The initial goal of "desk" is to provide user a browser based interface to help 
 - pnpm
 - python3
 
-## Toolings & Contributing
+## Toolings, References & Contributing
 
 Details on [contributing.md](./contributing.md)
+
+**References**
+
+- [vscode devcontainers](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## Who uses it?
 
 - [Grida Code](https://github.com/gridaco/code)
 - [Grida Edu](https://github.com/gridaco/edu.grida.co)
+- [Grida Flutter Support](https://github.com/gridaco/flutter-support)
