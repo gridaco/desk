@@ -49,3 +49,7 @@ Details on [contributing.md](./contributing.md)
 - [Grida Code](https://github.com/gridaco/code)
 - [Grida Edu](https://github.com/gridaco/edu.grida.co)
 - [Grida Flutter Support](https://github.com/gridaco/flutter-support)
+
+
+## Templates
+- windows-11-ko-kr-banking - used for accessing bank services in korea
